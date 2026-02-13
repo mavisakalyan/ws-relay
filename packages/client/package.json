@@ -1,0 +1,27 @@
+{
+  "name": "@mavisakalyan/ws-relay-client",
+  "version": "0.1.0",
+  "description": "WebSocket relay client with chat, users, and reconnect.",
+  "license": "MIT",
+  "type": "module",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    }
+  },
+  "files": ["dist"],
+  "scripts": {
+    "build": "tsc",
+    "clean": "rm -rf dist",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@mavisakalyan/ws-relay-protocol": "workspace:*"
+  },
+  "devDependencies": {
+    "typescript": "^5.7"
+  }
+}

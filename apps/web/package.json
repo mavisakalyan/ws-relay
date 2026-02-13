@@ -1,0 +1,38 @@
+{
+  "name": "ws-relay-web",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@mavisakalyan/ws-relay-protocol": "workspace:*",
+    "@mavisakalyan/ws-relay-client": "workspace:*",
+    "@mavisakalyan/ws-relay-react": "workspace:*",
+    "next": "^15",
+    "react": "^19",
+    "react-dom": "^19",
+    "tailwindcss": "^4",
+    "@tailwindcss/postcss": "^4",
+    "postcss": "^8",
+    "clsx": "^2",
+    "tailwind-merge": "^3",
+    "class-variance-authority": "^0.7",
+    "lucide-react": "^0.470",
+    "tw-animate-css": "^1",
+    "@radix-ui/react-scroll-area": "^1",
+    "@radix-ui/react-slot": "^1",
+    "@radix-ui/react-separator": "^1",
+    "@radix-ui/react-tooltip": "^1",
+    "@radix-ui/react-avatar": "^1"
+  },
+  "devDependencies": {
+    "@types/node": "^22",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "typescript": "^5.7"
+  }
+}

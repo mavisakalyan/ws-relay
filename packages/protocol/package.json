@@ -1,0 +1,27 @@
+{
+  "name": "@mavisakalyan/ws-relay-protocol",
+  "version": "0.1.0",
+  "description": "Message types and msgpack codec for ws-gameserver relay.",
+  "license": "MIT",
+  "type": "module",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    }
+  },
+  "files": ["dist"],
+  "scripts": {
+    "build": "tsc",
+    "clean": "rm -rf dist",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@msgpack/msgpack": "^3.0.0-beta2"
+  },
+  "devDependencies": {
+    "typescript": "^5.7"
+  }
+}
