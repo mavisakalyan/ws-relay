@@ -26,7 +26,7 @@ A monorepo with three npm packages that give you a ready-made chat system on top
 └─────────────────┼───────────────────────────────────────┘
                   ↓  WebSocket (msgpack binary)
 ┌─────────────────────────────────────────────────────────┐
-│              Any ws-gameserver relay                     │
+│              Any ws-gameserver relay                    │
 │                                                         │
 │  node-ws-gameserver  OR  bun-ws-gameserver  OR  custom  │
 └─────────────────────────────────────────────────────────┘
