@@ -3,6 +3,24 @@
   "version": "0.1.0",
   "description": "Message types and msgpack codec for ws-gameserver relay.",
   "license": "MIT",
+  "author": "mavisakalyan",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mavisakalyan/ws-relay.git",
+    "directory": "packages/protocol"
+  },
+  "homepage": "https://github.com/mavisakalyan/ws-relay/tree/main/packages/protocol",
+  "keywords": [
+    "websocket",
+    "relay",
+    "protocol",
+    "msgpack",
+    "binary-protocol",
+    "realtime",
+    "multiplayer",
+    "game-networking",
+    "typescript"
+  ],
   "type": "module",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",

@@ -3,6 +3,26 @@
   "version": "0.1.0",
   "description": "WebSocket relay client with chat, users, and reconnect.",
   "license": "MIT",
+  "author": "mavisakalyan",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mavisakalyan/ws-relay.git",
+    "directory": "packages/client"
+  },
+  "homepage": "https://github.com/mavisakalyan/ws-relay/tree/main/packages/client",
+  "keywords": [
+    "websocket",
+    "relay",
+    "client",
+    "chat",
+    "realtime",
+    "multiplayer",
+    "rooms",
+    "msgpack",
+    "reconnect",
+    "typescript",
+    "sdk"
+  ],
   "type": "module",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
