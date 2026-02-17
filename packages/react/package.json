@@ -1,6 +1,6 @@
 {
   "name": "@mavisakalyan/ws-relay-react",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "React hooks for ws-relay-client. useChat, useUsers, useConnection.",
   "license": "MIT",
   "author": "mavisakalyan",

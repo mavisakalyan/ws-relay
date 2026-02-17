@@ -1,6 +1,6 @@
 {
   "name": "@mavisakalyan/ws-relay-client",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "WebSocket relay client with chat, users, and reconnect.",
   "license": "MIT",
   "author": "mavisakalyan",
