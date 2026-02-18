@@ -2,7 +2,7 @@
   "name": "@mavisakalyan/ws-relay-client",
   "version": "0.1.1",
   "description": "WebSocket relay client with chat, users, and reconnect.",
-  "license": "MIT",
+  "license": "GPL-3.0-only",
   "author": "mavisakalyan",
   "repository": {
     "type": "git",

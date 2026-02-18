@@ -1,6 +1,7 @@
 {
   "name": "ws-relay",
   "private": true,
+  "license": "GPL-3.0-only",
   "scripts": {
     "build": "turbo run build",
     "dev": "turbo run dev",

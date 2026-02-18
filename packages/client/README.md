@@ -158,4 +158,4 @@ const { client, status } = useConnection({ url, roomId, username });
 
 ## License
 
-MIT
+GPL-3.0-only

@@ -180,4 +180,4 @@ pnpm typecheck
 
 ## License
 
-MIT
+GPL-3.0-only

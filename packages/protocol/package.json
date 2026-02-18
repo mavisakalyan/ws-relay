@@ -2,7 +2,7 @@
   "name": "@mavisakalyan/ws-relay-protocol",
   "version": "0.1.1",
   "description": "Message types and msgpack codec for ws-gameserver relay.",
-  "license": "MIT",
+  "license": "GPL-3.0-only",
   "author": "mavisakalyan",
   "repository": {
     "type": "git",

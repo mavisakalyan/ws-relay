@@ -186,4 +186,4 @@ Or any server that speaks the [ws-relay-protocol](https://www.npmjs.com/package/
 
 ## License
 
-MIT
+GPL-3.0-only

@@ -113,4 +113,4 @@ Or build your own — any server that relays msgpack messages in the format abov
 
 ## License
 
-MIT
+GPL-3.0-only
